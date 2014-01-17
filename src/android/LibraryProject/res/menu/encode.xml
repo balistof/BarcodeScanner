@@ -15,5 +15,8 @@
  limitations under the License.
  -->
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-  <!-- removed nonfunctional menu - see file history to retrieve -->
+        android:title=""
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:orderInCategory="2"
+        android:showAsAction="withText|ifRoom"/>
 </menu>
